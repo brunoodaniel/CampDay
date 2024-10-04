@@ -1,1 +1,3 @@
-# TrabalhoCampDay
+A turma de S.I do 6º período ficou responsável por desenvolver o painel de classificação. O painel deve ter um banco de dados para o armazenamento, recuperação e manipulação dos pontos de cada escola, o painel deve atualizar a cada 10 segundos e possui uma 2º tela para os jurados inserir o nome da escola e a pontuação, há a possibilidade de criar um novo registro ou adicionar a uma escola já tenha pontuado.
+
+Para a realização desse trabalho foi utilizado as tecnologias EJS ((Embedded JavaScript) que é uma tecnologia de templating que permite a inserção de código JavaScript diretamente em arquivos HTML), CSS para personalização, JavaScript (responsável pelo backend) e um banco de dados SQLite.
